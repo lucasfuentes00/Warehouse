@@ -2,7 +2,9 @@
 
 A simple, intuitive Warehouse management system built with **Vanilla JavaScript**. This project uses a **Tree Data Structure** to represent the hierarchical nature of a warehouse (Warehouse > Aisle > Shelf > Item) and includes built-in data persistence.
 
-![Warehouse Header](https://via.placeholder.com/800x400?text=Warehouse+JS+Tree+Project)
+<img width="607" height="360" alt="Warehouse2" src="https://github.com/user-attachments/assets/88cac3f8-8abc-4bb2-88f2-20f528a3daeb" />
+
+
 
 ## 🚀 Features
 
